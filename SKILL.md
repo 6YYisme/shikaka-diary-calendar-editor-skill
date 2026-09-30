@@ -308,7 +308,7 @@ Do not generate a month where every meal looks like it came from the same studio
 If food photos are provided in:
 
 ```text
-inputs/food_photos/
+input/food_photos/
 ```
 
 prefer using those photos.
@@ -355,13 +355,13 @@ Unless explicitly requested, NEVER:
 Save finished files to:
 
 ```text
-outputs/diary/
+output/diary/
 ```
 
 or:
 
 ```text
-outputs/calendar/
+output/calendar/
 ```
 
 according to task type.
@@ -376,7 +376,7 @@ Example:
 
 ```text
 diary_0929.png
-→ outputs/diary/diary_0929_sticker.png
+→ output/diary/diary_0929_sticker.png
 ```
 
 Never overwrite the original input unless explicitly instructed.
