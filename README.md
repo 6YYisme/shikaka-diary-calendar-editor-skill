@@ -13,11 +13,11 @@
 > 生成的摄影棚美食图。**
 
 ## 操作流程
-将原始素材放进input中
+> 将原始素材放进input中
 <img width="1062" height="518" alt="image" src="https://github.com/user-attachments/assets/93d84048-6dff-470d-81ae-5bfa958bcae7" />
+> 月报放进calendar，日记放进diary，有合适的食物也可放进food
 <img width="1044" height="359" alt="image" src="https://github.com/user-attachments/assets/4090bcac-c31b-4dbf-afd0-9fc555cbf19b" />
-月报放进calendar，日记放进diary，有合适的食物也可放进food
-> 给codex：请按照这个仓库现有规范，批量处理我提供的所有截图。
+> 给codex：请帮我把以下指令安装到codex中。读取 SKILL.md，按照里面的规则批量处理 input/ 里的所有图片，参考 references/，完成后输出到 output/。不要修改原文件。
 成品输出到
 <img width="957" height="383" alt="image" src="https://github.com/user-attachments/assets/a398f40c-48a2-4c91-ad57-b332e96f5efb" />
 
