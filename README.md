@@ -70,21 +70,21 @@ project/
 │   ├── calendar_food_realism_reference_01.jpg
 │   └── calendar_food_realism_reference_02.jpg
 │
-├── 原始素材/
+├── input/
 │   ├── diary/
 │   ├── calendar/
 │   └── food_photos/
 │
-└── 成品/
+└── output/
     ├── diary/
     └── calendar/
 ```
 
 `references/` 中放已经确认满意的效果图。
 
-`原始素材/` 中放每次需要处理的新截图或真实食物照片。
+`input/` 中放每次需要处理的新截图或真实食物照片。
 
-`成品/` 用于保存最终生成结果。
+`output/` 用于保存最终生成结果。
 
 ------------------------------------------------------------------------
 
