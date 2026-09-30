@@ -1,0 +1,44 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Logs / temp files
+*.log
+*.tmp
+*.temp
+*.bak
+*~
+
+# Local caches
+.cache/
+tmp/
+temp/
+
+# Optional generated working files
+work/
+scratch/
+
+# Keep output folders in Git, but ignore generated images by default
+outputs/diary/*
+outputs/calendar/*
+!outputs/diary/.gitkeep
+!outputs/calendar/.gitkeep
+
+# Do NOT ignore references or inputs here.
+# references/ contains the approved visual standards.
+# inputs/ contains source screenshots/photos for processing.
