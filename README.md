@@ -808,7 +808,7 @@ aspect_ratio
 处理新图片时，可直接使用以下要求：
 
 ``` text
-Read README.md and FOOD_STICKER_STYLE_GUIDE.md before processing.
+Read README.md and SKILL.md before processing.
 
 First classify the input as DIARY or CALENDAR.
 
